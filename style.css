@@ -718,11 +718,13 @@ body{
     }
 
     .container main header .search{
-        width: 40%;
+        width: 30%;
+
     }
 
     .container main header .search input{
         display: block;
+    
     }
 
     .container .right-section{
